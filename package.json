@@ -1,0 +1,22 @@
+{
+  "name": "chase",
+  "version": "1.0.0",
+  "description": "chase following tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/webpack-playlist.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/webpack-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/webpack-playlist#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
